@@ -30,8 +30,9 @@ Structure du Projet MVC
 Auteur
 Jules Laroche
 
-![Capture d'écran 2023-09-01 095014](https://github.com/JulesLaroche/FlashCash/assets/124147377/079b6a73-b755-4a5c-b16d-384d00921fb7)
-![Capture d'écran 2023-09-01 095045](https://github.com/JulesLaroche/FlashCash/assets/124147377/696ac29e-2947-4a64-93a4-a48ac4eb6265)
-![Capture d'écran 2023-09-01 095132](https://github.com/JulesLaroche/FlashCash/assets/124147377/d0b53b18-aef0-4130-971d-8cca4762aaac)
+![Capture d'écran 2023-09-01 095045](https://github.com/JulesLaroche/FlashCash/assets/124147377/41f33f6a-7015-4e94-8908-9c05bd5e1419)
+![Capture d'écran 2023-09-01 095132](https://github.com/JulesLaroche/FlashCash/assets/124147377/39f52e56-dec3-4120-9721-1099c2fbea52)
+![Capture d'écran 2023-09-01 095014](https://github.com/JulesLaroche/FlashCash/assets/124147377/3e3d0e7c-5d2e-4576-9359-b72691b9ddae)
+
 
 
