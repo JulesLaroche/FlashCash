@@ -25,26 +25,13 @@ Copy code
 mvn spring-boot:run
 L'application sera accessible à l'adresse http://localhost:8080 dans votre navigateur web.
 
-Structure du Projet
-Le projet est organisé comme suit :
+Structure du Projet MVC 
 
-lua
-Copy code
-/
-|-- src/
-|   |-- main/
-|   |   |-- java/
-|   |   |   |-- com/
-|   |   |   |   |-- flashcash/
-|   |   |   |   |   |-- controllers/       # Contrôleurs de l'application
-|   |   |   |   |   |-- models/            # Modèles de données
-|   |   |   |   |   |-- repositories/      # Interfaces de repository
-|   |   |   |   |   |-- services/          # Services de l'application
-|   |   |   |   |   |-- FlashCashApplication.java   # Classe principale de l'application
-|   |   |-- resources/
-|   |   |   |-- application.properties     # Configuration de la base de données
-|   |-- test/                               # Tests unitaires et d'intégration
-|-- pom.xml                                # Fichier de configuration Maven
-|-- README.md                             # Ce fichier README
 Auteur
 Jules Laroche
+
+![Capture d'écran 2023-09-01 095014](https://github.com/JulesLaroche/FlashCash/assets/124147377/079b6a73-b755-4a5c-b16d-384d00921fb7)
+![Capture d'écran 2023-09-01 095045](https://github.com/JulesLaroche/FlashCash/assets/124147377/696ac29e-2947-4a64-93a4-a48ac4eb6265)
+![Capture d'écran 2023-09-01 095132](https://github.com/JulesLaroche/FlashCash/assets/124147377/d0b53b18-aef0-4130-971d-8cca4762aaac)
+
+
